@@ -1,4 +1,4 @@
-# makeId
+# build-id
 #### Custom length randomized Id generator for node.js
 
 ```js
