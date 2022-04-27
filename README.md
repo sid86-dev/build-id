@@ -1,4 +1,5 @@
 # build-id
+![npm bundle size](https://img.shields.io/bundlephobia/min/build-id) [![Publish Docker Image](https://github.com/sid86-dev/build-id/actions/workflows/docker-image.yml/badge.svg)](https://github.com/sid86-dev/build-id/actions/workflows/docker-image.yml)
 #### Custom length randomized Id generator for node.js
 
 ```js
