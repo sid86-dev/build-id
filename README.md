@@ -18,7 +18,7 @@ console.log(id);
 ```js
 const buildId = require('build-id');
 
-var id = buildId(7);
+var id = buildId();
 
 console.log(id);
 // nYa5Sbk
