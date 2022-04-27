@@ -9,4 +9,10 @@
        return result;
     }
 
+if (require.main === module) {
+  for (let l = 1; l < 16; l++){
+    console.log(`char = ${l}; ` + generate(l));
+  }
+}
+
 module.exports = generate
